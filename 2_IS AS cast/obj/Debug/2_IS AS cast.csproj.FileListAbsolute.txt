@@ -1,0 +1,6 @@
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\2_IS AS cast\bin\Debug\2_IS AS cast.exe.config
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\2_IS AS cast\bin\Debug\2_IS AS cast.exe
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\2_IS AS cast\bin\Debug\2_IS AS cast.pdb
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\2_IS AS cast\obj\Debug\2_IS AS cast.csprojAssemblyReference.cache
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\2_IS AS cast\obj\Debug\2_IS AS cast.exe
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\2_IS AS cast\obj\Debug\2_IS AS cast.pdb

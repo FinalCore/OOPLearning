@@ -1,0 +1,6 @@
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\5_Delegates\bin\Debug\5_Delegates.exe.config
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\5_Delegates\bin\Debug\5_Delegates.exe
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\5_Delegates\bin\Debug\5_Delegates.pdb
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\5_Delegates\obj\Debug\5_Delegates.csprojAssemblyReference.cache
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\5_Delegates\obj\Debug\5_Delegates.exe
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\5_Delegates\obj\Debug\5_Delegates.pdb

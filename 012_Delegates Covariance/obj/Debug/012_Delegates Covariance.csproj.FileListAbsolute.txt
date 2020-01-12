@@ -1,0 +1,6 @@
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\012_Delegates Covariance\bin\Debug\012_Delegates Covariance.exe.config
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\012_Delegates Covariance\bin\Debug\012_Delegates Covariance.exe
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\012_Delegates Covariance\bin\Debug\012_Delegates Covariance.pdb
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\012_Delegates Covariance\obj\Debug\012_Delegates Covariance.csprojAssemblyReference.cache
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\012_Delegates Covariance\obj\Debug\012_Delegates Covariance.exe
+D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\012_Delegates Covariance\obj\Debug\012_Delegates Covariance.pdb

@@ -1,0 +1,7 @@
+F:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\015_Events\bin\Debug\015_Events.exe.config
+F:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\015_Events\bin\Debug\015_Events.exe
+F:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\015_Events\bin\Debug\015_Events.pdb
+F:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\015_Events\obj\Debug\015_Events.csprojAssemblyReference.cache
+F:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\015_Events\obj\Debug\015_Events.csproj.CoreCompileInputs.cache
+F:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\015_Events\obj\Debug\015_Events.exe
+F:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\015_Events\obj\Debug\015_Events.pdb
