@@ -1,6 +1,0 @@
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\017_Events_3\bin\Debug\017_Events_3.exe.config
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\017_Events_3\bin\Debug\017_Events_3.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\017_Events_3\bin\Debug\017_Events_3.pdb
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\017_Events_3\obj\Debug\017_Events_3.csprojAssemblyReference.cache
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\017_Events_3\obj\Debug\017_Events_3.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\017_Events_3\obj\Debug\017_Events_3.pdb

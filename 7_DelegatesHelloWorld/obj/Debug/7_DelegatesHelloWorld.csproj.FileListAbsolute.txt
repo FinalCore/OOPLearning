@@ -1,5 +1,0 @@
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\7_DelegatesHelloWorld\bin\Debug\7_DelegatesHelloWorld.exe.config
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\7_DelegatesHelloWorld\bin\Debug\7_DelegatesHelloWorld.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\7_DelegatesHelloWorld\bin\Debug\7_DelegatesHelloWorld.pdb
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\7_DelegatesHelloWorld\obj\Debug\7_DelegatesHelloWorld.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\7_DelegatesHelloWorld\obj\Debug\7_DelegatesHelloWorld.pdb

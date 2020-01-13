@@ -1,6 +1,0 @@
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\8_Generics\bin\Debug\8_Generics.exe.config
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\8_Generics\bin\Debug\8_Generics.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\8_Generics\bin\Debug\8_Generics.pdb
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\8_Generics\obj\Debug\8_Generics.csprojAssemblyReference.cache
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\8_Generics\obj\Debug\8_Generics.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\8_Generics\obj\Debug\8_Generics.pdb

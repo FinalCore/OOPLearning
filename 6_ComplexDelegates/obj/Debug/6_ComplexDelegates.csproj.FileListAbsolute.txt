@@ -1,6 +1,0 @@
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\6_ComplexDelegates\bin\Debug\6_ComplexDelegates.exe.config
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\6_ComplexDelegates\bin\Debug\6_ComplexDelegates.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\6_ComplexDelegates\bin\Debug\6_ComplexDelegates.pdb
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\6_ComplexDelegates\obj\Debug\6_ComplexDelegates.csprojAssemblyReference.cache
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\6_ComplexDelegates\obj\Debug\6_ComplexDelegates.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\6_ComplexDelegates\obj\Debug\6_ComplexDelegates.pdb

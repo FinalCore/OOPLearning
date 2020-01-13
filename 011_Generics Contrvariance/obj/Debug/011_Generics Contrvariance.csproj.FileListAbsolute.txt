@@ -1,5 +1,0 @@
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\011_Generics Contrvariance\bin\Debug\011_Generics Contrvariance.exe.config
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\011_Generics Contrvariance\bin\Debug\011_Generics Contrvariance.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\011_Generics Contrvariance\bin\Debug\011_Generics Contrvariance.pdb
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\011_Generics Contrvariance\obj\Debug\011_Generics Contrvariance.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\011_Generics Contrvariance\obj\Debug\011_Generics Contrvariance.pdb

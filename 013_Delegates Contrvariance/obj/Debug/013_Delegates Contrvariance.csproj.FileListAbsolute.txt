@@ -1,6 +1,0 @@
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\013_Delegates Contrvariance\bin\Debug\013_Delegates Contrvariance.exe.config
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\013_Delegates Contrvariance\bin\Debug\013_Delegates Contrvariance.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\013_Delegates Contrvariance\bin\Debug\013_Delegates Contrvariance.pdb
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\013_Delegates Contrvariance\obj\Debug\013_Delegates Contrvariance.csprojAssemblyReference.cache
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\013_Delegates Contrvariance\obj\Debug\013_Delegates Contrvariance.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\013_Delegates Contrvariance\obj\Debug\013_Delegates Contrvariance.pdb

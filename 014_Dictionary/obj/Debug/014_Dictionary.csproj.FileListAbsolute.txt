@@ -1,6 +1,0 @@
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\014_Dictionary\bin\Debug\014_Dictionary.exe.config
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\014_Dictionary\bin\Debug\014_Dictionary.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\014_Dictionary\bin\Debug\014_Dictionary.pdb
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\014_Dictionary\obj\Debug\014_Dictionary.csprojAssemblyReference.cache
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\014_Dictionary\obj\Debug\014_Dictionary.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\014_Dictionary\obj\Debug\014_Dictionary.pdb

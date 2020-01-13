@@ -1,6 +1,0 @@
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\4_Interfaces\bin\Debug\4_Interfaces.exe.config
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\4_Interfaces\bin\Debug\4_Interfaces.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\4_Interfaces\bin\Debug\4_Interfaces.pdb
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\4_Interfaces\obj\Debug\4_Interfaces.csprojAssemblyReference.cache
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\4_Interfaces\obj\Debug\4_Interfaces.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\4_Interfaces\obj\Debug\4_Interfaces.pdb

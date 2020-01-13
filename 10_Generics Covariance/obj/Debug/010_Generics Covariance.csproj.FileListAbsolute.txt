@@ -1,6 +1,0 @@
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\10_Generics Covariance\bin\Debug\10_Generics Covariance.exe.config
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\10_Generics Covariance\bin\Debug\10_Generics Covariance.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\10_Generics Covariance\bin\Debug\10_Generics Covariance.pdb
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\10_Generics Covariance\obj\Debug\010_Generics Covariance.csprojAssemblyReference.cache
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\10_Generics Covariance\obj\Debug\10_Generics Covariance.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\10_Generics Covariance\obj\Debug\10_Generics Covariance.pdb

@@ -1,6 +1,0 @@
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\3_Abstract classes\bin\Debug\3_Abstract classes.exe.config
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\3_Abstract classes\bin\Debug\3_Abstract classes.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\3_Abstract classes\bin\Debug\3_Abstract classes.pdb
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\3_Abstract classes\obj\Debug\3_Abstract classes.csprojAssemblyReference.cache
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\3_Abstract classes\obj\Debug\3_Abstract classes.exe
-D:\YandexDisk\Филиппов (рабочая папка)\Программирование\OOPLearning\3_Abstract classes\obj\Debug\3_Abstract classes.pdb
