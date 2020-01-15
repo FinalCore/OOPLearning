@@ -39,7 +39,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017_Events_2", "017_Events_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018_Events_3", "018_Events_3\018_Events_3.csproj", "{10BFCE84-F717-412E-9D46-136EEE63D8EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019_Project", "019_Project\019_Project.csproj", "{5672FA8C-CE11-44C8-9712-3560F97FEEF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019_Custom collection", "019_Project\019_Custom collection.csproj", "{5672FA8C-CE11-44C8-9712-3560F97FEEF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
