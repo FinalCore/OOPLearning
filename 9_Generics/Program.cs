@@ -11,7 +11,7 @@ namespace _9_Generics
 
     public interface IContainer<out T>
     {
-        T Figure { get; set; }
+        T Figure {get; }
     }
 
     public class Container<T> : IContainer<T>
