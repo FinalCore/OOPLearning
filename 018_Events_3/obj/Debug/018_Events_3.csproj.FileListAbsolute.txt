@@ -1,6 +1,5 @@
 D:\ITVDN\2_C#_essentials\OOPLearning\018_Events_3\bin\Debug\018_Events_3.exe.config
 D:\ITVDN\2_C#_essentials\OOPLearning\018_Events_3\bin\Debug\018_Events_3.exe
 D:\ITVDN\2_C#_essentials\OOPLearning\018_Events_3\bin\Debug\018_Events_3.pdb
-D:\ITVDN\2_C#_essentials\OOPLearning\018_Events_3\obj\Debug\018_Events_3.csprojAssemblyReference.cache
 D:\ITVDN\2_C#_essentials\OOPLearning\018_Events_3\obj\Debug\018_Events_3.exe
 D:\ITVDN\2_C#_essentials\OOPLearning\018_Events_3\obj\Debug\018_Events_3.pdb

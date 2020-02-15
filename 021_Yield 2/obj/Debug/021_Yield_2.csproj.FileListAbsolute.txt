@@ -1,0 +1,6 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\021_Yield 2\bin\Debug\021_Yield 2.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\021_Yield 2\bin\Debug\021_Yield 2.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\021_Yield 2\bin\Debug\021_Yield 2.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\021_Yield 2\obj\Debug\021_Yield_2.csprojAssemblyReference.cache
+D:\ITVDN\2_C#_essentials\OOPLearning\021_Yield 2\obj\Debug\021_Yield 2.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\021_Yield 2\obj\Debug\021_Yield 2.pdb
