@@ -11,8 +11,8 @@ namespace _019_Project
         string name;
         int number;
 
-        public string Name { get; set; } 
-        public int Number { get; set; } 
+        public string Name { get { return name; } set { name = value; } } 
+        public int Number { get { return number; } set { number = value; } } 
 
         public Element (string name, int number)
         {
