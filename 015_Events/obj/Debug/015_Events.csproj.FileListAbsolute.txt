@@ -1,0 +1,6 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\015_Events\bin\Debug\015_Events.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\015_Events\bin\Debug\015_Events.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\015_Events\bin\Debug\015_Events.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\015_Events\obj\Debug\015_Events.csprojAssemblyReference.cache
+D:\ITVDN\2_C#_essentials\OOPLearning\015_Events\obj\Debug\015_Events.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\015_Events\obj\Debug\015_Events.pdb

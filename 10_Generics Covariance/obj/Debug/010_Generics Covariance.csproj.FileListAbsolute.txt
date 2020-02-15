@@ -1,0 +1,5 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\10_Generics Covariance\bin\Debug\10_Generics Covariance.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\10_Generics Covariance\bin\Debug\10_Generics Covariance.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\10_Generics Covariance\bin\Debug\10_Generics Covariance.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\10_Generics Covariance\obj\Debug\10_Generics Covariance.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\10_Generics Covariance\obj\Debug\10_Generics Covariance.pdb

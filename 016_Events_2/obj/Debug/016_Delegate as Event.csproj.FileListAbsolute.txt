@@ -1,0 +1,5 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\016_Events_2\bin\Debug\016_Events_2.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\016_Events_2\bin\Debug\016_Events_2.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\016_Events_2\bin\Debug\016_Events_2.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\016_Events_2\obj\Debug\016_Events_2.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\016_Events_2\obj\Debug\016_Events_2.pdb

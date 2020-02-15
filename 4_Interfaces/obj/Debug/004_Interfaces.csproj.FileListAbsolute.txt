@@ -1,0 +1,5 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\4_Interfaces\bin\Debug\4_Interfaces.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\4_Interfaces\bin\Debug\4_Interfaces.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\4_Interfaces\bin\Debug\4_Interfaces.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\4_Interfaces\obj\Debug\4_Interfaces.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\4_Interfaces\obj\Debug\4_Interfaces.pdb

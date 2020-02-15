@@ -1,0 +1,6 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\019_Project\bin\Debug\019_Project.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\019_Project\bin\Debug\019_Project.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\019_Project\bin\Debug\019_Project.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\019_Project\obj\Debug\019_Project.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\019_Project\obj\Debug\019_Project.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\019_Project\obj\Debug\019_Custom collection.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\012_Delegates Covariance\bin\Debug\012_Delegates Covariance.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\012_Delegates Covariance\bin\Debug\012_Delegates Covariance.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\012_Delegates Covariance\bin\Debug\012_Delegates Covariance.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\012_Delegates Covariance\obj\Debug\012_Delegates Covariance.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\012_Delegates Covariance\obj\Debug\012_Delegates Covariance.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\012_Delegates Covariance\obj\Debug\012_Delegates Covariance.csprojAssemblyReference.cache

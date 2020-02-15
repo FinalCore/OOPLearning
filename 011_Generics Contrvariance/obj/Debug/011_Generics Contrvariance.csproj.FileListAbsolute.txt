@@ -1,0 +1,6 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\011_Generics Contrvariance\bin\Debug\011_Generics Contrvariance.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\011_Generics Contrvariance\bin\Debug\011_Generics Contrvariance.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\011_Generics Contrvariance\bin\Debug\011_Generics Contrvariance.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\011_Generics Contrvariance\obj\Debug\011_Generics Contrvariance.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\011_Generics Contrvariance\obj\Debug\011_Generics Contrvariance.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\011_Generics Contrvariance\obj\Debug\011_Generics Contrvariance.csprojAssemblyReference.cache

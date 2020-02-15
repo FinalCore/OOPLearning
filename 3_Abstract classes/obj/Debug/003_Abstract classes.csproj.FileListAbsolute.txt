@@ -1,0 +1,6 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\3_Abstract classes\bin\Debug\3_Abstract classes.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\3_Abstract classes\bin\Debug\3_Abstract classes.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\3_Abstract classes\bin\Debug\3_Abstract classes.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\3_Abstract classes\obj\Debug\003_Abstract classes.csprojAssemblyReference.cache
+D:\ITVDN\2_C#_essentials\OOPLearning\3_Abstract classes\obj\Debug\3_Abstract classes.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\3_Abstract classes\obj\Debug\3_Abstract classes.pdb

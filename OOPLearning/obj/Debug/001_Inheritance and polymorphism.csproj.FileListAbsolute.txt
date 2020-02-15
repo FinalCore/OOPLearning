@@ -1,0 +1,6 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\OOPLearning\bin\Debug\OOPLearning.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\OOPLearning\bin\Debug\OOPLearning.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\OOPLearning\bin\Debug\OOPLearning.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\OOPLearning\obj\Debug\001_Inheritance and polymorphism.csprojAssemblyReference.cache
+D:\ITVDN\2_C#_essentials\OOPLearning\OOPLearning\obj\Debug\OOPLearning.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\OOPLearning\obj\Debug\OOPLearning.pdb

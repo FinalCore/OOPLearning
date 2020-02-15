@@ -1,0 +1,5 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\014_Dictionary\bin\Debug\014_Dictionary.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\014_Dictionary\bin\Debug\014_Dictionary.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\014_Dictionary\bin\Debug\014_Dictionary.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\014_Dictionary\obj\Debug\014_Dictionary.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\014_Dictionary\obj\Debug\014_Dictionary.pdb

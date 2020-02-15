@@ -1,0 +1,6 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\8_Generics\bin\Debug\8_Generics.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\8_Generics\bin\Debug\8_Generics.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\8_Generics\bin\Debug\8_Generics.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\8_Generics\obj\Debug\008_Generics.csprojAssemblyReference.cache
+D:\ITVDN\2_C#_essentials\OOPLearning\8_Generics\obj\Debug\8_Generics.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\8_Generics\obj\Debug\8_Generics.pdb
