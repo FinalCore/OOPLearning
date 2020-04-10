@@ -1,0 +1,6 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\024_Threads_2\bin\Debug\024_Threads_2.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\024_Threads_2\bin\Debug\024_Threads_2.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\024_Threads_2\bin\Debug\024_Threads_2.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\024_Threads_2\obj\Debug\024_Threads_2.csprojAssemblyReference.cache
+D:\ITVDN\2_C#_essentials\OOPLearning\024_Threads_2\obj\Debug\024_Threads_2.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\024_Threads_2\obj\Debug\024_Threads_2.pdb
