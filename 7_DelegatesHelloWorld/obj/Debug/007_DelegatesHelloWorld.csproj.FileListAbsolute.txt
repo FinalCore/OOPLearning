@@ -3,3 +3,4 @@ D:\ITVDN\2_C#_essentials\OOPLearning\7_DelegatesHelloWorld\bin\Debug\7_Delegates
 D:\ITVDN\2_C#_essentials\OOPLearning\7_DelegatesHelloWorld\bin\Debug\7_DelegatesHelloWorld.pdb
 D:\ITVDN\2_C#_essentials\OOPLearning\7_DelegatesHelloWorld\obj\Debug\7_DelegatesHelloWorld.exe
 D:\ITVDN\2_C#_essentials\OOPLearning\7_DelegatesHelloWorld\obj\Debug\7_DelegatesHelloWorld.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\7_DelegatesHelloWorld\obj\Debug\007_DelegatesHelloWorld.csprojAssemblyReference.cache

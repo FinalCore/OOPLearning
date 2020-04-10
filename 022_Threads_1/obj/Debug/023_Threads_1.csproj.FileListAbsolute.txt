@@ -1,0 +1,5 @@
+D:\ITVDN\2_C#_essentials\OOPLearning\022_Threads_1\bin\Debug\022_Threads_1.exe.config
+D:\ITVDN\2_C#_essentials\OOPLearning\022_Threads_1\bin\Debug\022_Threads_1.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\022_Threads_1\bin\Debug\022_Threads_1.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\022_Threads_1\obj\Debug\022_Threads_1.exe
+D:\ITVDN\2_C#_essentials\OOPLearning\022_Threads_1\obj\Debug\022_Threads_1.pdb

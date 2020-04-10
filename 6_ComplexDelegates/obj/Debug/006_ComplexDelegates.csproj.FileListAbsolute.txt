@@ -3,3 +3,4 @@ D:\ITVDN\2_C#_essentials\OOPLearning\6_ComplexDelegates\bin\Debug\6_ComplexDeleg
 D:\ITVDN\2_C#_essentials\OOPLearning\6_ComplexDelegates\bin\Debug\6_ComplexDelegates.pdb
 D:\ITVDN\2_C#_essentials\OOPLearning\6_ComplexDelegates\obj\Debug\6_ComplexDelegates.exe
 D:\ITVDN\2_C#_essentials\OOPLearning\6_ComplexDelegates\obj\Debug\6_ComplexDelegates.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\6_ComplexDelegates\obj\Debug\006_ComplexDelegates.csprojAssemblyReference.cache

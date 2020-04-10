@@ -3,3 +3,4 @@ D:\ITVDN\2_C#_essentials\OOPLearning\013_Delegates Contrvariance\bin\Debug\013_D
 D:\ITVDN\2_C#_essentials\OOPLearning\013_Delegates Contrvariance\bin\Debug\013_Delegates Contrvariance.pdb
 D:\ITVDN\2_C#_essentials\OOPLearning\013_Delegates Contrvariance\obj\Debug\013_Delegates Contrvariance.exe
 D:\ITVDN\2_C#_essentials\OOPLearning\013_Delegates Contrvariance\obj\Debug\013_Delegates Contrvariance.pdb
+D:\ITVDN\2_C#_essentials\OOPLearning\013_Delegates Contrvariance\obj\Debug\013_Delegates Contrvariance.csprojAssemblyReference.cache
